@@ -1,0 +1,10 @@
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+target/
+hive/
+shell/
+metastore_db/
+spark-warehouse/
